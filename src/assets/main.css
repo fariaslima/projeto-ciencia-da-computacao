@@ -1,0 +1,9 @@
+/* @import './base.css'; */
+
+h1, h2 {
+  margin: auto auto 20px auto;
+}
+
+.largura {
+  max-width: 600px;
+}
